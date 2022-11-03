@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "sparta",
-    "password": "sparta0324",
-    "database": "3layered",
-    "host": "express-database.cqrnhcwa2e3k.ap-northeast-2.rds.amazonaws.com",
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": ",
     "dialect": "mysql"
   },
   "test": {
